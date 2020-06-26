@@ -9,5 +9,6 @@ In this project, the user enters a specific image, and the software creates a ne
   So it plays with the blinding of the color and the appearance of the picture.
 As you can update on your picture using the control panel and apply your adjust while the software is running.
 _______________
+For more information about image filters visit :https://www.mia.uni-saarland.de/Publications/weickert-dagm03.pdf
 Arthur: Sereen Bahdad
 ___________
